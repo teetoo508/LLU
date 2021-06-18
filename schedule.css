@@ -122,6 +122,7 @@ aside#right{
 	table-layout: fixed;
 	border-color: #3d3d3d;
 	border-collapse: collapse;
+	margin-bottom: 25px;
 }
 
 #number td{
