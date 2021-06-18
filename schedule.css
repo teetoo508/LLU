@@ -117,6 +117,10 @@ aside#right{
 		format("truetype"); 
 }
 
+#number {
+	transform: translate(-7%,0%);
+}
+
 #number table{
 	width: 1000px; 
 	table-layout: fixed;
