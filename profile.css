@@ -1,0 +1,157 @@
+body{
+	background-image: url(images/background.png);
+}
+
+header{
+	font-family: Agency FB;
+	font-size: 30px;
+	text-align: center;
+	color: white;
+	letter-spacing: 3px;
+	text-shadow: 2px 2px 5px #8c83ff;
+
+	src: local("fonts/AGENCYR.ttf") url("fonts/AGENCYR.ttf")
+		format("truetype"); 
+}
+
+	header a {
+		text-decoration: none;
+		color: white;
+	}
+	
+	header a:hover {
+		text-decoration: none;
+	}
+
+nav{
+	width: 238px;
+	float: left;
+}
+
+nav ul{
+	font-family: Agency FB;
+	font-weight: 600;
+	font-size: 28px;
+	color: #FFF;
+	list-style: none;
+	letter-spacing: 1px;
+	text-shadow: 2px 2px 5px #8c83ff;
+	
+	src: local("fonts/AGENCYR.ttf") url("fonts/AGENCYR.ttf")
+		format("truetype"); 
+}
+
+nav ul li{
+	line-height: 83px;
+}
+
+nav ul li a{
+	text-decoration: none;
+	color: #FFF;
+	display: block;
+}
+
+nav ul li a:hover{
+		text-shadow: 3px 3px 6px #7065ff;
+		}
+		
+aside#right{
+	width: 238px;
+	float: right;
+}
+
+#right h2{
+	font-family: Agency FB;
+	font-size: 30px;
+	text-align: right;
+	margin-right: 55px; 
+	color: white;
+	letter-spacing: 1px;
+	text-shadow: 2px 2px 5px #8c83ff;
+
+	src: local("fonts/AGENCYR.ttf") url("fonts/AGENCYR.ttf")
+		format("truetype"); 
+}
+
+#right ul{
+	list-style: none;
+}
+
+#right ul li a{
+	display: block;
+}
+
+#right ul li a:hover{
+		filter: drop-shadow(1px 1px 2px #7065ff);
+		}
+
+#main{
+	text-align: left; 
+}
+
+#lunes_picture{
+	float: left; 
+	margin-right: 50px;
+	margin-bottom: 50px;
+}
+
+#about_lunes_title{
+	font-family: Agency FB;
+	font-size: 70px;
+	font-weight: 600;
+	text-align: center;
+	color: white;
+	letter-spacing: 1px;
+	margin-bottom: 20px;
+	text-shadow: 2px 2px 5px #8c83ff;
+
+	src: local("fonts/AGENCYR.ttf") url("fonts/AGENCYR.ttf")
+		format("truetype"); 
+}
+
+#about_lunes{
+	font-size: 16px;
+	color: #3d3d3d;
+	margin-bottom: 75px;
+}
+
+#lunes_members_picture{
+	margin-top: 50px;
+	margin-left: 200px;
+	margin-right: 200px;
+	margin-bottom: 50px;
+	text-align: center;
+}
+
+footer{
+	width: 100%;
+	height: 35px;
+	clear: both;
+	
+	font-family: CENTURY GOTHIC;
+	font-size: 13px;
+	text-align: right;
+	color: #a78fea;
+	letter-spacing: 1px;
+
+	src: local("fonts/CENTURY GOTHIC.ttf") url("fonts/CENTURY GOTHIC.ttf")
+		format("truetype"); 
+}
+
+#youtube-icon{
+	float: left;
+	margin-left: 5px;
+}
+
+#youtube-icon:hover{
+	 filter: brightness(120%); 
+}
+
+#asked-icon{
+	float: left;
+	margin-left: 10px;
+}
+
+#asked-icon:hover{
+	 filter: brightness(120%); 
+}
