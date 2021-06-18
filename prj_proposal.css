@@ -49,6 +49,7 @@ nav ul li a{
 	text-decoration: none;
 	color: #FFF;
 	display: block;
+	margin-left: 1rem;
 }
 
 nav ul li a:hover{
@@ -79,6 +80,7 @@ aside#right{
 
 #right ul li a{
 	display: block;
+	margin-right: 1rem;
 }
 
 #right ul li a:hover{
