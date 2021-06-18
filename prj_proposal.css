@@ -3,6 +3,7 @@ body{
 }
 
 header{
+	margin-top: 30px;
 	font-family: Agency FB;
 	font-size: 30px;
 	text-align: center;
@@ -49,7 +50,7 @@ nav ul li a{
 	text-decoration: none;
 	color: #FFF;
 	display: block;
-	margin-left: 1rem;
+	margin-left: 50px;
 }
 
 nav ul li a:hover{
@@ -80,7 +81,7 @@ aside#right{
 
 #right ul li a{
 	display: block;
-	margin-right: 1rem;
+	margin-right: -50px;
 }
 
 #right ul li a:hover{
