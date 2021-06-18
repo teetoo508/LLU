@@ -4,7 +4,7 @@ body{
 
 header{
 	margin-top: 35px;
-	margin-bottom: 20px;
+	margin-bottom: 35px;
 	font-family: Agency FB;
 	font-size: 30px;
 	text-align: center;
@@ -84,7 +84,7 @@ aside#right{
 
 #right ul li a{
 	display: block;
-	margin-right: -100px;
+	margin-left: 50px;
 }
 
 #right ul li a:hover{
